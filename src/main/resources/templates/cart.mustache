@@ -4,11 +4,11 @@
 {{#cart}}
     <div class="container p-3 my-3 border">
         <h2 class="center">{{name}}</h2>
-        <table class="table table-bordered">
+        <table class="table table-borderless">
             <thread>
                 <tr>
                     <th>수량 : <input type='number' name='' step='1' value="{{amount}}" style="width:100px" min='1'/></th>
-                    <th><button id="{{id}}">장바구니에서 제거</button></th>
+                    <th><button type="button" class="btn btn-outline-danger" id="{{id}}">장바구니에서 제거</button></th>
                 </tr>
             </thread>
         </table>

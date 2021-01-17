@@ -40,6 +40,7 @@ var main2={
               window.location.href='/admin';
          }).fail(function(error){
               alert(JSON.stringify(error));
+              window.location.href='/admin';
          })
     }
 }
