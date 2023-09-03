@@ -24,6 +24,7 @@ public class HomeApplication implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 
 		userRepository.save(User.builder().name("유저1").password("ddd").build());
+		userRepository.save(User.builder().name("유저2").password("ABC").build());
 
 		User user = User.builder().name("user").password("user1234").build();
 
