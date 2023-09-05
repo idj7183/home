@@ -6,6 +6,8 @@ import java.util.List;
 
 public class TotalVisit {
 
+    private String name;
+
     private static List<Integer> visitors;
 
     private static LocalDateTime time;
