@@ -4,6 +4,8 @@
   프론트엔드 쪽에 너무 많은 신경을 쓰지 않으려고 일단 사용한 것이고, 기능을 이제 다 구현했으니 Thymeleaf로 천천히 바꾸겠습니다
 
 * 이젠 병합을 시켜보자!
+
+* 충돌이 발생하는 Branch B1
 - - -
 ## 시연영상
 [![시연영상](https://img.youtube.com/vi/YiBDo5mq0CQ/0.jpg)](https://youtu.be/UYdviTdyQhY?t=0s)
