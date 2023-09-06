@@ -5,7 +5,7 @@
 
 * 이젠 병합을 시켜보자!
 
-* 충돌이 발생하는 Branch B1
+* Main 브랜치 등장!
 - - -
 ## 시연영상
 [![시연영상](https://img.youtube.com/vi/YiBDo5mq0CQ/0.jpg)](https://youtu.be/UYdviTdyQhY?t=0s)
