@@ -8,8 +8,6 @@
 * B1 브랜치 등장!
 
 * Main 브랜치 등장!
-
-* 원격 저장소 작업
 - - -
 ## 시연영상
 [![시연영상](https://img.youtube.com/vi/YiBDo5mq0CQ/0.jpg)](https://youtu.be/UYdviTdyQhY?t=0s)
